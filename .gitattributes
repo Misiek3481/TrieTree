@@ -1,0 +1,6 @@
+*.sh text eol=lf
+*.in text eol=lf
+*.out text eol=lf
+
+*.cpp text
+*.h text
